@@ -1,0 +1,24 @@
+.main{
+    background-color: #7B73AA;
+    font-family:"Gill Sans", sans-serif;
+}
+.label{
+    font-size: 48px;
+    color: white;
+}
+.tag1{
+    color: blue;
+    font-size: 36px;
+    font-style: italic;
+    padding-left: 10%;
+}
+.tag2{
+    color: blue;
+    font-size: 36px;
+    font-weight: bold;
+}
+.imag{
+    padding-left: 10%;
+    width: 150;
+    height: 150;
+}
